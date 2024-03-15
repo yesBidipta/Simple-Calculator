@@ -4,9 +4,8 @@ This project is a simple web-based calculator application developed using HTML, 
 
 Features:
 Arithmetic Operations: Users can perform addition, subtraction, multiplication, and division operations.
-Clear Functionality: Includes a "Clear" button to reset the calculator screen.
-Error Handling: Provides error handling for invalid inputs or operations.
-Responsive Design: The calculator is designed to be responsive, ensuring compatibility across various devices and screen sizes.
+Clear Functionality: Includes a "C" button to reset the calculator screen.
+
 
 
 Usage:
